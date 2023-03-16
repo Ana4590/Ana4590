@@ -1,5 +1,5 @@
 # 👋 Olá! eu sou a Ana Caroline
-- 📐✏️  Graduada em arquite e urbanismo
+- 📐✏️  Graduada em arquitetura e urbanismo
 -  💻 Estudante de engenh de front-end
 -  📸 Nada fotogênica, apaixonada por vinho e leitura 🍷📚
 
